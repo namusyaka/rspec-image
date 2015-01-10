@@ -1,5 +1,7 @@
 # RSpec::Image
 
+[![Build Status](https://travis-ci.org/namusyaka/rspec-image.svg)](https://travis-ci.org/namusyaka/rspec-image)
+
 Provides some matchers for testing your image file.
 
 This was created with reference to the [carrierwave](https://github.com/carrierwaveuploader/carrierwave) gem.
