@@ -2,6 +2,8 @@
 
 Provides some matchers for testing your image file.
 
+This was created with reference to the [carrierwave](https://github.com/carrierwaveuploader/carrierwave) gem.
+
 ## Installation
 
 Add this line to your application's Gemfile:
